@@ -23,5 +23,5 @@
 
 ##
 ###
-**🎓 I am a Computer Engineer**<br>
+**🎓 Computer Engineer**<br>
 **🛠️ Practicing and learning Java** <br>
